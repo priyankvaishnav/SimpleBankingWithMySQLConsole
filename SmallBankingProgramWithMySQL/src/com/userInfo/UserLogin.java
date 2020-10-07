@@ -1,7 +1,8 @@
-package userInfo;
+package com.userInfo;
 
 import java.util.Scanner;
-import sqlOps.LoginOperations;
+
+import com.sqlOps.LoginOperations;
 
 public class UserLogin
 {

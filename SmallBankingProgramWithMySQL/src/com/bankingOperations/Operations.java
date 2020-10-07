@@ -2,9 +2,8 @@ package com.bankingOperations;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+import com.sqlOps.AccountOperations;
 import com.userAccount.UserAccount;
-
-import sqlOps.AccountOperations;
 public class Operations
 {
     private AccountOperations ao;

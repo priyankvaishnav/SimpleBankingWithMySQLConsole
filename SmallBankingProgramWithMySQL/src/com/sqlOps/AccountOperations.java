@@ -1,4 +1,4 @@
-package sqlOps;
+package com.sqlOps;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

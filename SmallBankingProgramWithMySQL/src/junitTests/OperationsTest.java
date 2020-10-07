@@ -5,9 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 import com.bankingOperations.Operations;
-
-import sqlOps.AccountOperations;
-import sqlOps.LoginOperations;
+import com.sqlOps.AccountOperations;
+import com.sqlOps.LoginOperations;
 
 class OperationsTest
 {

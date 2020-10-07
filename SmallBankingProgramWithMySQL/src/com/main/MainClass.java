@@ -2,8 +2,7 @@ package com.main;
 
 
 import com.bankingOperations.Operations;
-
-import userInfo.UserLogin;
+import com.userInfo.UserLogin;
 
 public class MainClass
 {
